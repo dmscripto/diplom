@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/console.cpp.o ./Debug/log.cpp.o ./Debug/path.cpp.o ./Debug/pathDrawer.cpp.o ./Debug/robomath.cpp.o ./Debug/serial.cpp.o ./Debug/settings.cpp.o ./Debug/video.cpp.o
